@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Tests/PlayMode/PlayModeTestScenes/TargetPlacementTest.unity
+    guid: 3d328f38f71b71e47bb8d96869012ffe
+  - enabled: 0
+    path: Assets/Tests/PlayMode/PlayModeTestScenes/TargetPlacementTest.unity
+    guid: 3d328f38f71b71e47bb8d96869012ffe
+  - enabled: 0
+    path: Assets/Scenes/PickAndPlaceMRTK.unity
+    guid: 902c118807623d24b8413d70aaebb222
+  - enabled: 0
+    path: Assets/Scenes/Part3MRTKStep3.unity
+    guid: 0892f79dc3193dd48be36867e1560b6e
+  - enabled: 0
+    path: Assets/Scenes/Part3MRTKStep4.unity
+    guid: 86d49ed18a54f2741981d503f3ee8ee2
+  - enabled: 0
+    path: Assets/Scenes/Part3MRTKStep5.unity
+    guid: 430346bbca0e01f4b9154c52e76c9c4a
+  - enabled: 1
+    path: Assets/Scenes/Part3MRTKHololensTargetChange.unity
+    guid: 9b1b3c2c5574fe94da0f48eb1bf4d4fe
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 11ef4c072bbda054193812948f4968b9, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e495be028ab167447a6916cc585a4ced, type: 2}
